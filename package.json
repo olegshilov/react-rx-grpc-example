@@ -17,7 +17,7 @@
     "@types/google-protobuf": "3.7.2",
     "@types/react": "16.9.34",
     "@types/react-dom": "16.9.7",
-    "async": "3.2.0",
+    "async": "3.2.2",
     "google-protobuf": "3.11.4",
     "grpc": "1.24.2",
     "grpc-web": "1.0.7",
